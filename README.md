@@ -24,7 +24,7 @@ This tutorial outlines the basics of working in **PowerBI Online**. Feel free to
 
 
 ### Creating Basic Visualizations in PowerBI
-1. Deciding what kind of visualization you want to create really depends on what kinds of discoveries you want to make about your data. You'll find that this becomes easier when you're working with your own data rather than an excercise file. For now, we'll stick to our exercise file - let's say we want to visualize the winning/losing rates of the four football teams who have won the most Super Bowls.
+1. Deciding what kind of visualization you want to create really depends on what kinds of discoveries you want to make about your data. You'll find that this becomes easier when you're working with your own data rather than an exercise file. For now, we'll stick to our exercise file - let's say we want to visualize the winning/losing rates of the four football teams who have won the most Super Bowls.
 2. In the fields tab, we can see our two datasets: **Super Bowl Game Details** and **Super Bowl Appearances by Team**. For this visualization, we'll use the second of these two datasets.
 > ![photo5](https://user-images.githubusercontent.com/46492847/53821894-a6c49700-3f3c-11e9-9925-c0900975aa40.png)
 3. Tables are the easiest visualization to create in PowerBI, and it's a nice way to be able to see your data while you're creating more complex visualizations. To create a table, **click on the table icon in the visualizations section**
