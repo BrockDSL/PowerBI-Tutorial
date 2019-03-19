@@ -1,6 +1,10 @@
 # PowerBI-Workshop
 ## This tutorial outlines the basics of working in **PowerBI Online**. Feel free to work through this tutorial with the included Excel Workbook, or using any dataset you have
 
+![dsl_logo](https://user-images.githubusercontent.com/46492847/54619894-b6170a80-4a3b-11e9-886b-92231c872861.png)
+
+[@brock_dsl](https://twitter.com/brock_dsl)
+
 ### Signing In and Main Page Overview
 1. To get to PowerBI Online, open your web browser and head to [the PowerBI website](app.powerbi.com). From there, it'll prompt you to sign in with your Microsoft account. Use your Brock email and password to log in.
 > ![photo1](https://user-images.githubusercontent.com/46492847/53821765-68c77300-3f3c-11e9-8241-f6aee01891c7.png)
