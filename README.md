@@ -72,3 +72,6 @@ This tutorial outlines the basics of working in **PowerBI Online**. Feel free to
 5. To add a trendline, **navigate to the icon that looks like a magnifying glass over a graph**. This is the Analytics tab, and you can add all sorts of lines to better point out trends in your data. You won't have this option for every visualization you create (like our map visualization, for example), but since it applies here we'll add a trendline by **revealing the drop-down menu for Trend Line, and clicking Add**
 > ![photo20](https://user-images.githubusercontent.com/46492847/53827259-aa5e1b00-3f48-11e9-9319-183e47595b4f.png)
 6. Now we can see that there is an overall downward trend in Super Bowl attendance, meaning fewer and fewer fans are going to the games. There could be several reasons for this, and we can use PowerBI to theorize these reasons and analyze the significant outliers at the top of our graph. 
+
+### Learn More
+To learn more about using PowerBI, check out our [second PowerBI tutorial](https://brockdsl.github.io/PowerBI-2.0/) online, or get in touch with us by sending an email to **dsl@brocku.ca** or following us on [twitter](https://twitter.com/brock_dsl) 
