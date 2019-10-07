@@ -1,5 +1,5 @@
 # PowerBI-Tutorial
-This tutorial outlines the basics of working in **PowerBI Online**. Feel free to work through this tutorial with the sample data about [Super Bowl Game Details](https://raw.githubusercontent.com/BrockDSL/PowerBI-Workshop/master/SuperBowlGameDetails.csv) and [Super Bowl Wins by Team](https://raw.githubusercontent.com/BrockDSL/PowerBI-Workshop/master/SuperBowlWinsByTeam.csv), or using any dataset you have.  (To download the data, right click the link and "Save link as...")
+This tutorial outlines the basics of working in **PowerBI Online**. Feel free to work through this tutorial with the sample data about [Super Bowl Game Details](https://github.com/BrockDSL/PowerBI-Tutorial/blob/master/SuperBowlGameDetails.csv) and [Super Bowl Wins by Team](https://github.com/BrockDSL/PowerBI-Tutorial/blob/master/SuperBowlWinsByTeam.csv), or using any dataset you have.  (To download the data, right click the link and "Save link as...")
 
 ![DSL Logo](dsl_logo.png)
 
