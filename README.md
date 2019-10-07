@@ -9,8 +9,8 @@ This tutorial outlines the basics of working in **PowerBI Online**. Feel free to
 1. To get to PowerBI Online, open your web browser and head to [the PowerBI website](https://powerbi.microsoft.com/en-us/landing/signin/). From there, it'll prompt you to sign in with your Microsoft account. Use your Brock email and password to log in.
 > ![photo1](https://user-images.githubusercontent.com/46492847/53821765-68c77300-3f3c-11e9-8241-f6aee01891c7.png)
 2. If you've worked in PowerBI recently, this is where you'll see all of your recent projects. You can favourite certain projects and they'll be shown in the top row along with projects that you work on frequently.
-3. You'll also see some Microsoft recommended apps. PowerBI is designed with business numbers in mind including sales reports and  inventory counts, so PowerBI is recommending other business centered apps that are offered by Microsoft. The good news is that PowerBI can do much more than business numbers and sales graphs, which we'll see in a moment.
-4. Finally, there are some video tutorials about how to use all of the different versions of PowerBI, including online, desktop, and mobile. Lucky you, you get to learn from the DSL instead of from Microsoft!
+3. You'll also see some Microsoft recommended apps. PowerBI is designed with business numbers in mind including sales reports and  inventory counts, so PowerBI is recommending other business centered apps that are offered by Microsoft.
+4. Finally, there are some video tutorials about how to use all of the different versions of PowerBI, including online, desktop, and mobile.
 
 ### Get Data
 1. Unlike it's Desktop companion, PowerBI Online is slightly limited in where we can retrieve data. The desktop version allows information to be extracted from webpages, social media sites, and plenty of others. We do still have some options for data retrieval in PowerBI Online. Click **Get Data** in the bottom left hand corner of the window to see what these options are.
